@@ -1,0 +1,16 @@
+{
+  "ClientAddress": "0.0.0.0:4339",
+  "NimServerAddressList": [
+    "thetis.students.cs.ubc.ca:41650",
+    "thetis.students.cs.ubc.ca:41651",
+    "thetis.students.cs.ubc.ca:41652",
+    "thetis.students.cs.ubc.ca:41653",
+    "thetis.students.cs.ubc.ca:41654"
+  ],
+  "TracingServerAddress": "thetis.students.cs.ubc.ca:41757",
+  "Secret": "",
+  "TracingIdentity": "client",
+  "FCheckAckLocalAddr": "0.0.0.0:41527",
+  "FCheckHbeatLocalAddr": "0.0.0.0:41490",
+  "FCheckLostMsgsThresh": 3
+}

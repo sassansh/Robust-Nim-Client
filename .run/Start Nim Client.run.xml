@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start Nim Client" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="Robust-Nim-Client" />
+    <working_directory value="$PROJECT_DIR$" />
+    <parameters value="103" />
+    <kind value="FILE" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/client/main.go" />
+    <method v="2" />
+  </configuration>
+</component>

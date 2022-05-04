@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start Tracing Server" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="Robust-Nim-Client" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/tracing-server/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
